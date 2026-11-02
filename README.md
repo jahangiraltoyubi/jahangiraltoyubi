@@ -1,33 +1,51 @@
-# Hi, I'm Jahangir (Zayn) 👋
+# Jahangir Al Toyubi
 
-**Aspiring Native Android Developer** from Bangladesh, building clean, user-friendly apps with Kotlin and Jetpack Compose.
+**Indie Developer | Native Android | Kotlin & Jetpack Compose**
 
-## 🚀 What I'm building
+I design and build native Android applications and mobile games, with a focus on clean architecture, modern UI and a smooth user experience. Based in Bangladesh and open to freelance and collaboration opportunities.
 
-**📥 FlyDownloader**: an Android app that downloads video, audio and images from links.
-- Built with Kotlin + Jetpack Compose
-- Live download progress with ETA
-- Download notifications and a settings screen
+---
 
-**🧩 A sort-puzzle game**: a mobile puzzle game with its own twist *(in progress)*
+### Featured Work
 
-## 🛠️ Tech stack
+**FlyDownloader**: Android application for downloading video, audio and images from shared links.
+- Built entirely with Kotlin and Jetpack Compose
+- Real-time download progress with estimated time remaining
+- Background downloads with system notifications
+- Configurable user settings
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Sort Puzzle Game** *(in development)*: A mobile puzzle game built around an original sorting mechanic.
 
-## 🌱 Currently learning
+---
 
-- Modern Android development (Andev Formula course)
-- Jetpack Compose UI and state management
-- App architecture (MVVM)
+### Technical Skills
 
-## 📫 Reach me
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material%203-757575?style=flat-square&logo=materialdesign&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Open to feedback, collaboration and freelance Android work. Feel free to open an issue on any of my repos!
+- **Languages:** Kotlin
+- **UI:** Jetpack Compose, Material Design 3
+- **Architecture:** MVVM, state management
+- **Tools:** Android Studio, Git, GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahangiraltoyubi&show_icons=true&theme=transparent&hide_border=true)
+---
+
+### Current Focus
+
+- Shipping FlyDownloader to production
+- Deepening expertise in Android app architecture
+- Developing original mobile game titles
+
+---
+
+### Contact
+
+Available for freelance Android development and collaboration.
+<!-- Add your email or LinkedIn here, e.g. -->
+<!-- 📧 your.email@example.com · [LinkedIn](https://linkedin.com/in/your-profile) -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahangiraltoyubi&show_icons=true&theme=default&hide_border=true&hide_title=true)
